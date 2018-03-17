@@ -1,8 +1,5 @@
-## Welcome to Asiana Airlines' Careers!
 
-Begin with Asiana Airlines' Careers.
-
-Here are the applications and details of each job.
+[![](https://preview.ibb.co/gNyzaH/289_C1_A3_A_1888_4200_8_E8_B_7469_C918895_F.jpg)](#)
 
 ***Captain***
 
