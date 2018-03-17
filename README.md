@@ -4,8 +4,6 @@ Begin with Asiana Airlines' Careers.
 
 Here are the applications and details of each job.
 
-***_________________________________***
-
 ***Captain***
 
 ***Job details:*** Pilots fly the plane. Simple.
@@ -14,7 +12,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ***First Officer***
 
@@ -24,7 +22,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ***Security***
 
@@ -34,7 +32,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ***Ground Crew***
 
@@ -44,7 +42,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ***Board of Directors***
 
@@ -54,7 +52,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ***Cabin Crew***
 
@@ -64,7 +62,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ***Adminstration Services***
 
@@ -74,8 +72,8 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open](https://www.roblox.com)
+[Apply](https://www.roblox.com)
 
 ### Support or Contact
 
-Having trouble with forms? Message [Be_come](https://www.roblox.com/users/360987298/profile) on ROBLOX. So I can solve your issue/problem. 
+Having trouble with forms? Message [Be_come](https://www.roblox.com/users/360987298/profile) on ROBLOX.
