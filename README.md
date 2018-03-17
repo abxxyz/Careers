@@ -24,7 +24,7 @@ Here are the applications and details of each job.
 
 ***Hiring State:*** Open
 
-[Open]https://www.roblox.com
+[Open](https://www.roblox.com)
 
 ***Security***
 
