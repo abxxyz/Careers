@@ -69,7 +69,7 @@
 
 **Hiring State:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSfh7RHD44ZPvpxydOHrNjWCAY03hWyV_iHJJe0d78pr6osKmw/viewform?usp=sf_link)
 
 ### Support or Contact
 
