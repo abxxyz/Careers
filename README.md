@@ -23,7 +23,7 @@
 
 **Security**
 
-***Job details:*** Security make sure that everyone is safe.
+**Job details:** Security make sure that everyone is safe.
 
 **Head of Department:** No one
 
