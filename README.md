@@ -9,7 +9,7 @@
 
 **Hiring State:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSeO_7D7citzFkWhVRJc2XCr4hDeSbI5gQQzr3CA-VFHJt2z3g/viewform?usp=sf_link)
 
 **First Officer**
 
@@ -19,7 +19,7 @@
 
 **Hiring state:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSefDFBmMrTCWcbvkHktePor-8kFg0bN_lbUcxiBHve95uljKQ/viewform?usp=sf_link)
 
 **Security**
 
@@ -29,7 +29,7 @@
 
 **Hiring State:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSdv5Teb7hHAtRDBFPvzvXvtEl14DB8uS63KDlDwEnCkq2Wyeg/viewform?usp=sf_link)
 
 **Ground Crew**
 
@@ -39,7 +39,7 @@
 
 **Hiring State:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSe-51Jk51xSZ9jYs-H1sUHhPA2lBMo8nT7l0BGOrdEIpskTMg/viewform?usp=sf_link)
 
 **Board of Directors**
 
@@ -49,7 +49,7 @@
 
 **Hiring State:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLScdBqDzbeFQ2PaP0A0oXuBzuolho9y7TSz9IHF41dIcjI_5YA/viewform?usp=sf_link)
 
 **Cabin Crew**
 
@@ -59,7 +59,7 @@
 
 **Hiring State:** Open
 
-[Apply](https://www.roblox.com)
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSfKJiEFe-jlx5XHDmCb5vx6IAakuRn3wwBCx2CLnuILFPeX8A/viewform?usp=sf_link)
 
 **Adminstration Services**
 
