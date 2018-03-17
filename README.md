@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to Asiana Airlines' Careers!
 
-You can use the [editor on GitHub](https://github.com/abxxyz/fn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Begin with Asiana Airlines' Careers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are the applications and details of each job.
 
-### Markdown
+***_________________________________***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***Captain***
+***Job details:*** Pilots fly the plane. Simple.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
-```markdown
-Syntax highlighted code block
+***First Officer***
+***Job details:*** Be with Captain and do landing gear, etc.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
-# Header 1
-## Header 2
-### Header 3
+***Security***
+***Job details:*** Protect the building, etc.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
-- Bulleted
-- List
+***Ground Crew***
+***Job details:*** Look after the plane but on ground.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
-1. Numbered
-2. List
+***Board of Directors***
+***Job details:*** Make decisions for our airline.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
-**Bold** and _Italic_ and `Code` text
+***Cabin Crew***
+***Job details:*** Ensure safety of passengers and comfort of passengers.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abxxyz/fn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***Adminstration Services***
+***Job details:*** Make sure that employees and customers follow the rules.
+***Head of Department:*** No one
+***Hiring State:*** Open
+[Open]https://www.roblox.com
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with forms? Message [Be_come]https://www.roblox.com/users/360987298/profile on ROBLOX. So I can solve your issue/problem. 
